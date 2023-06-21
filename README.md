@@ -59,6 +59,3 @@ After running the application, you can use the GUI to select the search algorith
 ## Acknowledgments
 - The lecture and tutorial materials of the Introduction to AI unit have been crucial in the development of this application.
 - The book “Artificial Intelligence: A Modern Approach” 3rd edition by Stuart Russell and Peter Norvig.
-
-## License
-MIT License
