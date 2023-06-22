@@ -19,6 +19,7 @@ Each algorithm has different properties and is efficient in various scenarios. T
 
 ## Graphical User Interface (GUI)
 The GUI is developed using the Pygame library. It visually represents the grid, with colors indicating different cell types (start, goal, wall, visited, path, etc.). This interface enables users to understand how each algorithm operates and traces its steps.
+![image](https://github.com/EspiusEdwards/COS30019---Robot-Navigation-Problem/assets/89919588/f9d331b0-da4c-44ac-ba71-e45a0c82f629)
 
 ## Features
 - GUI for visualizing the progress of the search algorithms.
