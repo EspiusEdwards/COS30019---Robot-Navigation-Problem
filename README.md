@@ -1,4 +1,4 @@
-# COS30019 - Robot Navigation Problem
+# Path graph finding navigation
 
 ## Introduction
 This repository contains a Python application that focuses on solving the Robot Navigation problem using various search algorithms. The Robot Navigation problem involves finding the optimal path for a robot in an NxM grid with obstacles, from its starting position to one or more predetermined goals. The application also includes a Graphical User Interface (GUI) to visualize the robot's path-finding progress in real-time.
